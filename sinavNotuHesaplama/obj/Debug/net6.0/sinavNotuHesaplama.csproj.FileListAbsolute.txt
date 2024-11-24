@@ -1,0 +1,15 @@
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\bin\Debug\net6.0\sinavNotuHesaplama.exe
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\bin\Debug\net6.0\sinavNotuHesaplama.deps.json
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\bin\Debug\net6.0\sinavNotuHesaplama.runtimeconfig.json
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\bin\Debug\net6.0\sinavNotuHesaplama.dll
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\bin\Debug\net6.0\sinavNotuHesaplama.pdb
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\sinavNotuHesaplama.csproj.AssemblyReference.cache
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\sinavNotuHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\sinavNotuHesaplama.AssemblyInfoInputs.cache
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\sinavNotuHesaplama.AssemblyInfo.cs
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\sinavNotuHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\sinavNotuHesaplama.dll
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\refint\sinavNotuHesaplama.dll
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\sinavNotuHesaplama.pdb
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\sinavNotuHesaplama.genruntimeconfig.cache
+C:\Users\dndag\Desktop\sinavNotuHesaplama\sinavNotuHesaplama\obj\Debug\net6.0\ref\sinavNotuHesaplama.dll
